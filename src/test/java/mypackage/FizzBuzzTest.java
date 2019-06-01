@@ -6,7 +6,7 @@ class FizzBuzzTest {
 
     @org.junit.jupiter.api.Test
     void fizzBuzz() {
-        assertEquals("fizz", FizzBuzz.fizzBuzz(3));
+        assertEquals("fizzzzz", FizzBuzz.fizzBuzz(3));
         assertEquals("fizz", FizzBuzz.fizzBuzz(33));
         assertEquals("fizz", FizzBuzz.fizzBuzz(99));
 
